@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        //array of objects
+        let myobjects = [{ principal: "2500", time: "1.8" },
+        { principal: "1000", time: "5" },
+        { principal: "3000", time: "1" },
+        { principal: "2000", time: "3" }];
+
+        //function takes in array as  argument
+
+        function interestcalculator(array) {
+
+            // determine the rate 
+            array.forEach(function (arr) {
+
+                if (arr.principal >= 2500 && 1 < arr.time < 3) {
+                    arr.rate = 3;
+                }
+
+                else if (arr.principal < 2500 && arr.time >= 3) {
+                    arr.rate = 4;
+                }
+
+                else if (arr.principal < 2500 && arr.time <= 3) {
+                    arr.rate = 2;
+                }
+                else {
+                    arr.rate = 1;
+                }
+            });
+
+            //calculate interest
+            array.forEach(function (arr) {
+                arr.interest = (arr.principal * arr.rate * arr.time) / 100
+            });
+
+            //interest data
+            let interestdata = array;
+
+            // Log the 'interestData' array to console 
+            console.log(interestdata);
+            return interestdata;
+
+        };
+
+        //call the function
+        interestcalculator(myobjects);
+        
+    </script>
+</body>
+
+</html>
