@@ -14,8 +14,11 @@
             var counter = [];
             for (var i = 1; i <= n; i++) {
 
-                if (i % 2 === 0 && i % 3 === 0) {
-                    counter.push("yu-gi");
+                if (i % 2 === 0 && i % 3 === 0 && i % 5 === 0) {
+                    counter.push("gi-oh");
+                }
+                else if (i % 2 === 0 && i % 3 === 0) {
+                    counter.push("yu-gi-oh");
                 }
                 else if (i % 2 === 0 && i % 5 === 0) {
                     counter.push("yu-oh");
