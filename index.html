@@ -9,11 +9,12 @@
 
 <body>
     <script>
+        // function that takes parameter
 
         function myfunction() {
             var counter = [];
             for (var i = 1; i <= n; i++) {
-
+                // checks if numbers are divisible by 2,3,5 and replaces them with corresponding values
                 if (i % 2 === 0 && i % 3 === 0 && i % 5 === 0) {
                     counter.push("yu-gi-oh");
                 }
@@ -39,12 +40,13 @@
 
                 else { counter.push(i) }
             }
-
+            //return an array from 1 to passed argument
             console.log(counter);
         }
-
+        // call  the function and pass 100 as an argument
         myfunction(n = 100);
-
+        // call the number and pass a random number of choice
+        myfunction(n = 150);
 
 
 
