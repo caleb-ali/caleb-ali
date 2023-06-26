@@ -4,7 +4,7 @@ Hi 👋 My name is Caleb Ali
 Frontend Developer
 ------------------
 
-I'm a Frontend React Developer with a passion for creating dynamic and user-friendly web applications. I have experience developing with React, JavaScript, HTML,CSS and TailwindCSS, and I'm always looking to learn more and stay up-to-date with the latest web technologies. My goal is to build high-quality web solutions that are both functional and aesthetically pleasing,. When i'm not working you'll find me playing video games or watching movies
+I'm a Frontend React Developer with a passion for creating dynamic and user-friendly web applications. I have experience developing with React, JavaScript, HTML,CSS and TailwindCSS, and I'm always looking to learn more and stay up-to-date with the latest web technologies. My goal is to build high-quality web solutions that are both functional and aesthetically pleasing, When i'm not working you'll find me playing video games or watching movies
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [caleb\_ali@yahoo.co.uk](mailto:caleb_ali@yahoo.co.uk)
