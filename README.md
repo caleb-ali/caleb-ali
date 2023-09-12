@@ -11,7 +11,7 @@ I'm a Frontend React Developer with a passion for creating dynamic and user-frie
 * ⚡  i cant swim don't tell anyone lol
 
 <a href="https://www.twitter.com/_realkally" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_realkally?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/_devali?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
