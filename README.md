@@ -4,7 +4,7 @@ Hi 👋 My name is Caleb Ali
 Frontend Developer
 ------------------
 
-I'm a Frontend React Developer with a passion for creating dynamic and user-friendly web applications. 
+I'm a Frontend Developer with a passion for creating dynamic and user-friendly web applications. 
 * ✉️  You can contact me at [caleb\_ali@yahoo.co.uk](mailto:caleb_ali@yahoo.co.uk)
 * ⚡  i cant swim don't tell anyone lol
 
