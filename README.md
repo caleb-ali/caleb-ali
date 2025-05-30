@@ -6,7 +6,7 @@ Frontend Developer
 
 I'm a Frontend Developer with a passion for creating dynamic and user-friendly web applications. 
 * ✉️  You can contact me at [calebali413@gmail.com](mailto:calebali413@gmail.com)
-* ⚡  i cant swim don't tell anyone lol
+
 
 
 ### Skills
